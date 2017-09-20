@@ -6,4 +6,4 @@ A MATERA Systems, desde 1987, atua como fornecedora de soluções e serviços de
 
 ## Como se candidatar
 
-Por favor envie um email para recrutamento@matera.com com seu CV anexado - enviar no assunto: Vaga Front-End Developer.
+Por favor envie um email para recrutamento@matera.com com seu CV anexado
