@@ -30,7 +30,7 @@ Remoto ou Escritório, São Paulo - Vila Olímpia
 - 2 horas de almoço
 - monte a sua máquina como desejar
 - frigobar sempre cheio :P
-- sala de jogos
+- PLR
 - ...
 
 ## Requisitos
@@ -48,7 +48,7 @@ Remoto ou Escritório, São Paulo - Vila Olímpia
 
 ## Contratação
 
-PJ a combinar
+CLT a combinar
 
 ## Nossa empresa
 
